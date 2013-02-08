@@ -1,0 +1,4 @@
+2009-10-31 10:50:26 Notice: Notice (8): Undefined variable: auser in [/var/www/9amprayer.info/views/elements/layout/topmenu.ctp, line 4]
+2009-10-31 10:51:45 Notice: Notice (8): Undefined variable: auser in [/var/www/9amprayer.info/views/elements/layout/topmenu.ctp, line 4]
+2009-11-02 10:16:35 Notice: Notice (8): Undefined variable: mailto in [/var/www/9amprayer.info/views/pages/home.ctp, line 63]
+2009-11-02 10:19:36 Notice: Notice (8): Undefined variable: mailto in [/var/www/9amprayer.info/views/pages/home.ctp, line 63]

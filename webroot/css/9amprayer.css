@@ -1,0 +1,110 @@
+body {
+	background-color: #6C050C;
+	color: #fff;
+	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+	font-size:13px;
+	width: 955px;
+	margin: 0 auto;
+}
+#header {
+	padding: 10px 20px;
+	background: #4A196A;
+}
+#header h1 {
+	background: #4A196A url('../img/coleredlogo.png') no-repeat left;
+	color: #003d4c;
+    font-weight: bold;
+	font-size: 200%;
+    width:200px;
+    text-align: right;
+	padding: 58px 70px;
+    vertical-align: text-top;
+}
+#header h1 a {
+	color: #fff;
+	background: #4A196A;
+	font-weight: bold;
+	text-decoration: none;
+}
+#header h1 a:hover {
+	color: #fff;
+	background: #4A196A;
+	text-decoration: none;
+}
+h3 {
+	color: #6c050c;
+	font-family:'Gill Sans','lucida grande',helvetica, arial, sans-serif;
+	font-size: 165%;
+	padding-top: 1.5em;
+}
+#footer {
+	background-color: #4a196a;
+}
+#topmenu {
+	width:95%;
+	clear:none;
+	margin-bottom:-5px;
+}
+#topmenu a {
+	text-decoration: none;
+	color: #003d4c;
+	background-color: #E5BFFF;
+}
+#topmenu a:hover {
+	background-color: #4A196A;
+	color:#E5BFFF;
+	margin-top:-2px;
+	border-top:1px solid #E5BFFF;
+	border-bottom:1px solid #E5BFFF;
+}
+#topmenu_container {
+	clear:both;
+	padding: 0px 0px 0px 0px;
+	text-align:right; 
+}
+.topmenu {
+	border-top:1px solid #E5BFFF;
+	border-bottom:1px solid #E5BFFF;
+	background-color:#E5BFFF;
+	clear:none;
+	padding: 2px 5px 2px 5px;
+}
+.partner .name {
+	font-weight: bold;
+	font-size: 150%;
+}
+.partner .name a {
+	color: #4A196A;
+	text-decoration: none;
+}
+.partner .name a:hover {
+	text-decoration: underline;
+}
+.partner .info a {
+	color: #4A196A;
+	text-decoration: none;
+}
+.partner .info a:hover {
+	text-decoration: underline;
+}
+.partner .pastor span {
+	color: #4A196A;
+	font-weight: bold;
+}
+.blessing {
+ 	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #6C050C;
+}
+.blessing .verse {
+ 	text-align: center;
+	font-size: 200%;
+	font-weight: bold;
+}
+.blessing .citation {
+/*	font-size: 90%; */
+	text-align: right;
+	font-weight: bold;
+	padding: 0px 0px 0px 0px;
+}

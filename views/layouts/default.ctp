@@ -42,7 +42,7 @@
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $html->link(__('9amPrayer.info', true), '/'); ?></h1>
+			<h1><?php echo $html->link(__('9amPrayer', true), '/'); ?></h1>
 			<?php echo $this->element('layout/topmenu');?>
 		</div>
 		<div id="content">
@@ -57,7 +57,6 @@
 			?>
 		</div>
 	</div>
-	<?php echo $cakeDebug; ?>
 	<?php echo $this->element('layout/google_analytics'); ?>
 </body>
 </html>

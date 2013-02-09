@@ -50,10 +50,8 @@
 			<?php echo $content_for_layout; ?>
 		</div>
 		<div id="footer">
-			<?php echo $html->link(
-					$html->image('cake.power.gif', array('alt'=> __("CakePHP: the rapid development php framework", true), 'border'=>"0")),
-					'http://www.cakephp.org/',
-					array('target'=>'_blank', 'escape' => false));
+			<?php
+				echo $this->element('layout/footer');
 			?>
 		</div>
 	</div>
